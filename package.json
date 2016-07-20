@@ -1,0 +1,28 @@
+{
+  "name": "arduino-johnny-five",
+  "version": "1.0.0",
+  "description": "Examples of johnny five library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kevinccbsg/Examples-node-johnny-five.git"
+  },
+  "keywords": [
+    "arduino",
+    "johnny",
+    "five",
+    "examples"
+  ],
+  "author": "Kevin Julián Martínez Escobar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinccbsg/Examples-node-johnny-five/issues"
+  },
+  "homepage": "https://github.com/kevinccbsg/Examples-node-johnny-five#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.60"
+  }
+}
